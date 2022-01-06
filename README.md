@@ -24,7 +24,7 @@
 ## 🎥 Demo  🎥
 ❗️ 영상 크기 때문에 음악 소리 제거함
 
-https://user-images.githubusercontent.com/50102522/148361653-6699aec6-91f8-484a-9b88-c88170d71225.mp4
+https://user-images.githubusercontent.com/50102522/148362288-6832bb37-868d-4b40-b6b9-a2595e891bb6.mp4
 
 <br>
 <br>
